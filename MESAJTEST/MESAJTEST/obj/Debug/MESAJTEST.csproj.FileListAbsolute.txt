@@ -1,0 +1,11 @@
+C:\Users\btk02\source\repos\MESAJTEST\MESAJTEST\bin\Debug\MESAJTEST.exe.config
+C:\Users\btk02\source\repos\MESAJTEST\MESAJTEST\bin\Debug\MESAJTEST.exe
+C:\Users\btk02\source\repos\MESAJTEST\MESAJTEST\bin\Debug\MESAJTEST.pdb
+C:\Users\btk02\source\repos\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.csproj.AssemblyReference.cache
+C:\Users\btk02\source\repos\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.Form1.resources
+C:\Users\btk02\source\repos\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.Form2.resources
+C:\Users\btk02\source\repos\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.Properties.Resources.resources
+C:\Users\btk02\source\repos\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.csproj.GenerateResource.cache
+C:\Users\btk02\source\repos\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.csproj.CoreCompileInputs.cache
+C:\Users\btk02\source\repos\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.exe
+C:\Users\btk02\source\repos\MESAJTEST\MESAJTEST\obj\Debug\MESAJTEST.pdb
